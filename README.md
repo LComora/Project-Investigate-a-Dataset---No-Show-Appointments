@@ -62,7 +62,7 @@ The primary goal was to investigate and answer the following:
 
 notebooks/: Contains the Jupyter Notebook with the full analysis and code.
 
-data/: Placeholder for the dataset (not included due to size; download from Kaggle).
+data/: Placeholder for the dataset (not included due to size; [download from Kaggle](url)).
 
 README.md: Project overview (this file).
 
